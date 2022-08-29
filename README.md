@@ -1,7 +1,10 @@
 ### Oi oi 👋
 
-- 🔭 Trabalho atualmente em back-end (estágio)
-- 🌱 Aprendendo desenvolvimento web/ banco de dados (SQL)
+- 🔭 College Intern at DXC Technology
+- 💻 Cybersecurity Student
+- 🌱 CSharp, API DEVELOPER
+- 📓 English, German 
+- 🇧🇷
 
 
 <div align="center">
