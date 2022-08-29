@@ -1,4 +1,4 @@
-### Oi oi 👋
+### Welcome ^._.^= ∫
 
 - 🔭 College Intern at DXC Technology
 - 💻 Cybersecurity Student
