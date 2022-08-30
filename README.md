@@ -2,7 +2,7 @@
 
 - 🔭 College Intern at DXC Technology
 - 💻 Cybersecurity Student
-- 🌱 CSharp, API DEVELOPER
+- 🌱 Learning CSharp, API DEVELOPER
 - 📓 English, German 
 - 🇧🇷
 
