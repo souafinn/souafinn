@@ -15,7 +15,7 @@
   
 <div style="display: inline_block"><br>
   
-  
+  <img align="left" alt="api" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg](https://cdn-icons-png.flaticon.com/512/3234/3234207.png)">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="gatinho" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/62442123/156891962-c0e67e1f-802c-4152-82a9-f6c52763094d.gif">
 
@@ -23,7 +23,8 @@
 
   
  ##
- 
+ ![api](https://user-images.githubusercontent.com/62442123/187434557-5fea45ac-8723-48a4-9906-18f80d1852e9.png)
+
 <div> 
   
   <a href="https://www.linkedin.com/in/maria-eduarda-alves-750706174/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
